@@ -1,0 +1,20 @@
+.outupt-mainbox h1{
+	font-size:18px;
+	font-weight: normal;
+	color:green;
+	line-height: 18px;
+}
+
+.outupt-mainbox{
+	width:50%;
+	text-align: center;
+	margin: 0 auto;
+	margin-top:15px;
+	border:1px solid #000000;
+	padding:15px;
+	margin-bottom:20px;
+	background-color: #f1eded;
+}
+.outupt-mainbox p{
+	text-align: justify;
+}

@@ -1,0 +1,14 @@
+.userinput-mainbox h1{
+	font-size:18px;
+	font-weight: normal;
+	color:red;
+	line-height: 18px;
+	
+}
+.userinput-mainbox{
+	border:1px solid #ccc;
+	width:30%;
+	margin:0 auto;
+	margin-top:15px;
+	padding:15px;
+}

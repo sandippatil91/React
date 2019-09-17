@@ -1,0 +1,9 @@
+.person-box{
+	
+	border:1px solid #eee;
+	box-shadow:2px 2px 1px #graylight;
+	padding:10px;
+	width:30%;
+	margin:0 auto;
+	margin-top:15px;
+}
