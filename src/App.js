@@ -7,6 +7,9 @@ import Services from './Services/Services';
 import Story from './Story/Story';
 import Showcase from './Showcase/Showcase';
 import Showmore from './Showmore/Showmore';
+import Progress from './Progress/Progress';
+import Plans from './Plans/Plans';
+import Testimonial from './Testimonial/Testimonial';
 import Footer from './Footer/Footer';
 
 class App extends Component {
@@ -27,6 +30,9 @@ class App extends Component {
 	     <Story />
 	     <Showcase />
 	     <Showmore />
+	     <Progress />
+	     <Plans />
+	     <Testimonial />
 	     <Footer />
 	    </div>
 	  );
